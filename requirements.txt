@@ -1,0 +1,7 @@
+Flask
+flask-cors
+PyPDF2
+python-dotenv
+pandas
+Pillow
+google-generativeai==0.7.0
